@@ -11,7 +11,7 @@ using HarmonyLib;
 using System.Reflection.Emit;
 using System.Linq;
 
-namespace BCompany.Patches
+namespace SaveSpoof.Patches
 {
 	[HarmonyPatch]
 	public class SaveDataTranspilers {
